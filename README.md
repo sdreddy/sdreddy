@@ -2,3 +2,7 @@
 - 👀 I’m interested in Big Data and Python projects 
 - 🌱 I’m currently learning Spark,ReactJs,ExpressJs
 - 📫 How to reach me sdreddy.kovvuri@gmail.com
+-   You can visit my profiles in the below urls
+-   https://www.datacamp.com/profile/sdreddykovvuri
+-   https://www.hackerrank.com/sdreddy_kovvuri
+-   https://www.linkedin.com/in/satya-reddy-kovvuri-1335a633/
