@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Satya Durga Reddy @sdreddy
+- 👀 I’m interested in Big Data and Python projects 
+- 🌱 I’m currently learning Spark,ReactJs,ExpressJs
+- 📫 How to reach me sdreddy.kovvuri@gmail.com
